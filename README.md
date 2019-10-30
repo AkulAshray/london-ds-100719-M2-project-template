@@ -2,7 +2,7 @@
 ________________________
 # Module 2 Summative Lab
 
-    Student Name: <Jazz Doe>
+    Student Name: <Ashray Shetty>
 
 ## Task Tracker
 
@@ -11,7 +11,7 @@ Modelled on a simple [Kanban](https://www.atlassian.com/agile/kanban) process wo
 | TO DO | DOING | BLOCKED | DONE |
 |-------|-------|---------|------|
 ||||1|
-|2||||
+||||2|
 |3||||
 |4||||
 |5||||
